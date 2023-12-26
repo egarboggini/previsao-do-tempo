@@ -18,6 +18,22 @@ body {
     box-shadow: rgba(0,0,0,0.1) 0px 10px 50px;
 }
 
-.informacao-principal {
-    
+.busca {
+    background-color: green;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.busca input {
+    background-color: #0a1435;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    opacity: 0.8;
 }
