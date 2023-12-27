@@ -23,5 +23,3 @@ async function buscarDadosDaCidade(cidade) {
 function preencherDadosNaTela(dados, cidade) {
     document.getElementById("cidade").textContent = cidade;
 }
-
-oi
